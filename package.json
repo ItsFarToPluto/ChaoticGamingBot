@@ -1,0 +1,14 @@
+{
+  "name": "ChaoticGaming",
+  "version": "0.1.1",
+  "description": "ChaoticGaming Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YouCannotHide",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^10.0.1"
+  }
+}
